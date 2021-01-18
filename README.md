@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-A simple 60% Top mount with O-rings with the goal of consistent typing feel and as easy to machine as possible. Left side USB port designed to fit WTD-60 and Plain60-C (Others may fit but not tested).
+A simple 60% Top mount + O-rings with the goal of consistent typing feel and as easy to machine as possible. Left side USB port designed to fit WTD-60 and Plain60-C (Others may fit but not tested).
 
 
 #### My favourite combination: PP half plate, 1.2mm PCB, KS3 Gateron yellows. 
